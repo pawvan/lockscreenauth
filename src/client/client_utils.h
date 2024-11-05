@@ -1,4 +1,6 @@
-#include "client_utils.h"
+#ifndef CLIENT_UTILS_H
+#define CLIENT_UTILS_H
 
-// Add any additional client-side utilities if needed in the future
+// Declare utility functions for the client (if needed in the future)
 
+#endif // CLIENT_UTILS_H
